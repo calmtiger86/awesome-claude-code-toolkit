@@ -1066,6 +1066,7 @@ Notable projects, directories, and resources across the Claude Code ecosystem.
 | [Claudoscope](https://github.com/cordwainersmith/claudoscope) | 29 | Native macOS menu bar app for Claude Code session analytics. Token/cost tracking, full-text search, real-time secret detection, config health linting (44 rules). Reads local JSONL files, fully offline, zero telemetry. Swift/SwiftUI, Homebrew install |
 | [LynxPrompt](https://github.com/GeiserX/LynxPrompt) | 25+ | Open-source platform for managing AI coding agent configs (CLAUDE.md, AGENTS.md, .cursorrules, copilot-instructions.md). Web marketplace, CLI, VS Code extension, self-hostable via Docker/Helm with federation support |
 | [Solo Orchestrator](https://github.com/kraulerson/solo-orchestrator) | 4 | Phase-gated development methodology for building production-quality applications with Claude Code. One-command setup generates CLAUDE.md, CI/CD pipelines, pre-commit hooks, and security tooling. Auto-discovers new platforms and languages from the filesystem. Includes enterprise governance, intake wizard, and adversarial evaluation prompts. [Example project](https://github.com/kraulerson/solo-orchestrator-example-project) shows the complete artifact trail. |
+| [vibe-replay](https://github.com/tuo-lei/vibe-replay) | new | Turn AI coding sessions into shareable, interactive HTML replays with animated playback, insights, and PR integration. Supports Claude Code and Cursor. [Website](https://vibe-replay.com) |
 
 ---
 
